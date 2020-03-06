@@ -1,0 +1,7 @@
+*{ margin:0; padding:0;}
+
+/* .equipmenttable {} */
+.basetable {float: left}
+.equipmenttable th {text-align:center;background:#eee;border:1px solid #ccc;}
+.equipmenttable td {text-align:right;background: #ffffff;border:1px solid #ccc;}
+.damagereducion_tr th {width: 16px;text-align:center;background:#eee;border:1px solid #ccc;}
