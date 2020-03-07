@@ -4735,7 +4735,7 @@
 "LS_SUFFREN" = "Сюффрен";
 "LS_CHARLEMAGNE" = "Шарлемань";
 "LS_ALSACE" = "Ельзас";
-"LS_LORRAINE" = "Лоррэн";
+"LS_LORRAINE" = "Лорейн";
 "LS_LYON" = "Ліон";
 "LS_PARIS" = "Париж";
 "LS_STRAS BOURG" = "Страсбург";
@@ -5111,7 +5111,7 @@
 "LS_AIR_STRIKE_CONFIRM" = "НАТИСНУТИ [BR] ДЛЯ АТАКИ";
 "LS_ADDED_TO_BLACKLIST_FOR_ONE_DAY" = "відрахований з гри на 1 день";
 
-"LS_GEORGIA" = "Джоржия";
+"LS_GEORGIA" = "Джорджія";
 "LS_INDEFATIGABLE" = "Індефатігабл";
 "LS_SHINANO" = "Сінано";
 "LS_PROJECT A" = "Проект А";
@@ -5280,3 +5280,7 @@
 "LS_CHAT_FONT_SMALL" = "мілкий";
 "LS_CHAT_FONT_LARGE" = "великий";
 "LS_CHAT_FONT_MEDIUM" = "середній";
+
+"LS_ANSON" = "Ансон";
+"LS_KIRISHIMA" = "Кірішима";
+"LS_PROGETTO UP38" = "Проджетто UP38";

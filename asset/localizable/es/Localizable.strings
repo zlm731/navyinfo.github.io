@@ -5255,7 +5255,7 @@
 "LS_GASCOGNE" = "Gascogne";
 "LS_TAKAO" = "Takao";
 "LS_JUNEAU" = "Juneau";
-"LS_ARETHUSA" = "Arethusa";
+"LS_ARETHUSA" = "HMS Arethusa";
 "LS_AGANO" = "Agano";
 "LS_SEYDLITZ 1939" = "Seydlitz (1939)";
 "LS_KERCH" = "Kerch";
@@ -5280,3 +5280,7 @@
 "LS_CHAT_FONT_SMALL" = "small";
 "LS_CHAT_FONT_LARGE" = "large";
 "LS_CHAT_FONT_MEDIUM" = "medium";
+
+"LS_ANSON" = "HMS Anson";
+"LS_KIRISHIMA" = "Kirishima";
+"LS_PROGETTO UP38" = "Progetto UP38";

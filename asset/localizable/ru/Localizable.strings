@@ -5111,7 +5111,7 @@
 "LS_AIR_STRIKE_CONFIRM" = "НАЖАТЬ[BR]ДЛЯ АТАКИ";
 "LS_ADDED_TO_BLACKLIST_FOR_ONE_DAY" = "исключен из игры на 1 день";
 
-"LS_GEORGIA" = "Джоржия";
+"LS_GEORGIA" = "Джорджия";
 "LS_INDEFATIGABLE" = "Индефатигабл";
 "LS_SHINANO" = "Синано";
 "LS_PROJECT A" = "Проект А";
@@ -5280,3 +5280,7 @@
 "LS_CHAT_FONT_SMALL" = "маленький";
 "LS_CHAT_FONT_LARGE" = "большой";
 "LS_CHAT_FONT_MEDIUM" = "средний";
+
+"LS_ANSON" = "Ансон";
+"LS_KIRISHIMA" = "Кирисима";
+"LS_PROGETTO UP38" = "Проджетто UP38";

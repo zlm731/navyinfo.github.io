@@ -5262,21 +5262,25 @@
 "LS_DE GRASSE" = "德·格拉斯";
 "LS_LUIGI CADORNA" = "路易吉·卡多爾納";
 
-"LS_CW_CONQUEROR_EMPTY" = "none";
-"LS_CW_MANAGER_EMPTY" = "none";
-"LS_CW_ATTACK" = "WAR";
-"LS_CW_MANAGEMENT" = "MANAGEMENT";
+"LS_CW_CONQUEROR_EMPTY" = "無";
+"LS_CW_MANAGER_EMPTY" = "無";
+"LS_CW_ATTACK" = "戰爭";
+"LS_CW_MANAGEMENT" = "管理";
 
-"LS_CW_WAR_DECLARATION_NOTICE" = "Declaration of War";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "In order to declare war, the attack fleet must have more than 5 fleet members. ";
-"LS_CW_WAR_DESC" = "The war will begin after 24 hours.After the declaration of the war, attacker should confirmparticipants before battle time. If the number of participants is not enough, it is judged that no battle is conducted.The new fleet cannot declare war for a month.";
+"LS_CW_WAR_DECLARATION_NOTICE" = "宣戰";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "進攻艦隊必須有5名以上成員才可以宣戰";
+"LS_CW_WAR_DESC" = "戰鬥將在24小時後開始。宣戰後，進攻方需要在戰鬥開始前確認參戰人員。如果參與人數不足，將判定為無法戰鬥。新艦隊在一個月內無法宣戰。";
 
-"LS_SETTINGS_TRANSLATE_LANG" = "Transaltion language";
-"LS_SETTINGS_SHOW_TRANSLATE" = "Translation function";
-"LS_CHAT_TRANSLATE" = "TRANSLATE";
-"LS_TRANSLATE_ONLY_FOR_PAID_TITLE" = "TRANSLATION";
-"LS_TRANSLATE_ONLY_FOR_PAID_TEXT" = "Translation is not available for FREE players. You have to buy any amount of Gold to use translation function.";
-"LS_SETTINGS_CHAT_FONT_SIZE" = "Chat font size";
-"LS_CHAT_FONT_SMALL" = "small";
-"LS_CHAT_FONT_LARGE" = "large";
-"LS_CHAT_FONT_MEDIUM" = "medium";
+"LS_SETTINGS_TRANSLATE_LANG" = "語言翻譯";
+"LS_SETTINGS_SHOW_TRANSLATE" = "翻譯功能";
+"LS_CHAT_TRANSLATE" = "翻譯";
+"LS_TRANSLATE_ONLY_FOR_PAID_TITLE" = "翻譯";
+"LS_TRANSLATE_ONLY_FOR_PAID_TEXT" = "翻譯功能不對免費玩家開放，您需要購買任意金額的金幣才可以使用翻譯功能";
+"LS_SETTINGS_CHAT_FONT_SIZE" = "聊天框尺寸";
+"LS_CHAT_FONT_SMALL" = "小";
+"LS_CHAT_FONT_LARGE" = "大";
+"LS_CHAT_FONT_MEDIUM" = "中";
+
+"LS_ANSON" = "安森";
+"LS_KIRISHIMA" = "霧島";
+"LS_PROGETTO UP38" = "UP38計劃";

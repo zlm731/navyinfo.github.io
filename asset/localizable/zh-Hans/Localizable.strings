@@ -5276,7 +5276,11 @@
 "LS_CHAT_TRANSLATE" = "翻译";
 "LS_TRANSLATE_ONLY_FOR_PAID_TITLE" = "翻译";
 "LS_TRANSLATE_ONLY_FOR_PAID_TEXT" = "翻译功能不对免费玩家开放，您需要购买任意金额的黄金才可以使用";
-"LS_SETTINGS_CHAT_FONT_SIZE" = "Chat font size";
-"LS_CHAT_FONT_SMALL" = "small";
-"LS_CHAT_FONT_LARGE" = "large";
-"LS_CHAT_FONT_MEDIUM" = "medium";
+"LS_SETTINGS_CHAT_FONT_SIZE" = "聊天框尺寸";
+"LS_CHAT_FONT_SMALL" = "小";
+"LS_CHAT_FONT_LARGE" = "大";
+"LS_CHAT_FONT_MEDIUM" = "中";
+
+"LS_ANSON" = "安森";
+"LS_KIRISHIMA" = "雾岛";
+"LS_PROGETTO UP38" = "UP38计划";
