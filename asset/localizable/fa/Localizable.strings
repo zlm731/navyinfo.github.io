@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "خروج";
 "LS_GAME_EXIT_DESC" = "آیا می خواهید از بازی خارج شوید؟";
 "LS_CLAN_SELECT_ICON" = "انتخاب پرچم ناوگان";
-"LS_CLAN_ICON CHANGE" = "فلگ را انتخاب کنید";
+"LS_CLAN_ICON_CHANGE" = "فلگ را انتخاب کنید";
 "LS_CLAN_MEMBERS" = "اعضای ناوگان";
 "LS_CLAN_FAVORITES" = "علاقه مندی ها";
 "LS_CLAN_WINS" = "ناوگان برنده می شود";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "نام تکراری. [BR] لطفا یک نام ناوگان جدید را انتخاب کنید.";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "سوخت";

@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "Thoát ra";
 "LS_GAME_EXIT_DESC" = "Bạn có muốn thoát ra không ?";
 "LS_CLAN_SELECT_ICON" = "Lựa chọn biểu tượng của hạm đội";
-"LS_CLAN_ICON CHANGE" = "Thay đổi biểu tượng";
+"LS_CLAN_ICON_CHANGE" = "Thay đổi biểu tượng";
 "LS_CLAN_MEMBERS" = "Thành viên hạm đội";
 "LS_CLAN_FAVORITES" = "Hạm đội ưa thích";
 "LS_CLAN_WINS" = "Số trận thắng của hạm đội";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Tên bị trùng. Vui lòng chọn một tên khác";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "Xăng";

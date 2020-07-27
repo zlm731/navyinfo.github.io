@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "離開";
 "LS_GAME_EXIT_DESC" = "你要離開嗎?";
 "LS_CLAN_SELECT_ICON" = "選擇艦隊標誌";
-"LS_CLAN_ICON CHANGE" = "更換標誌";
+"LS_CLAN_ICON_CHANGE" = "更換標誌";
 "LS_CLAN_MEMBERS" = "艦隊成員";
 "LS_CLAN_FAVORITES" = "艦隊的最愛";
 "LS_CLAN_WINS" = "艦隊勝利數";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "安森";
 "LS_KIRISHIMA" = "霧島";
 "LS_PROGETTO UP38" = "UP38計劃";
+
+"LS_KII" = "紀伊";
+
+"LS_CLAN_NAME_SHORT" = "簡稱";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "複製名稱。[BR]請選擇一個新艦隊名字。";
+
+"LS_SEARCH" = "搜索";
+
+"LS_DE GRASS" = "德·格拉斯";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "輸入玩家名稱的首字母";
+
+"LS_ALL" = "全部";
+"LS_ONLINE" = "在線";
+
+"LS_AIR_FUEL_WARNING" = "燃料";

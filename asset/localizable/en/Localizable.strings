@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "Exit";
 "LS_GAME_EXIT_DESC" = "Do you want to exit the game?";
 "LS_CLAN_SELECT_ICON" = "Fleet Flag Selection";
-"LS_CLAN_ICON CHANGE" = "SELECT FLAG";
+"LS_CLAN_ICON_CHANGE" = "SELECT FLAG";
 "LS_CLAN_MEMBERS" = "Fleet Members";
 "LS_CLAN_FAVORITES" = "FAVORITES";
 "LS_CLAN_WINS" = "Fleet wins";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Duplicate name.[BR]Please select a new fleet name.";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "FUEL";

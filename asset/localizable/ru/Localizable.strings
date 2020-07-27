@@ -4126,14 +4126,14 @@
 "LS_GAME_EXIT" = "Выход";
 "LS_GAME_EXIT_DESC" = "Вы уверены что хотите выйти?";
 "LS_CLAN_SELECT_ICON" = "Выбрать";
-"LS_CLAN_ICON CHANGE" = "Поменять";
+"LS_CLAN_ICON_CHANGE" = "Флаг";
 "LS_CLAN_MEMBERS" = "Состав флота";
 "LS_CLAN_FAVORITES" = "ЗАКЛАДКИ";
 "LS_CLAN_WINS" = "Победы";
 "LS_CLAN_WIN_SERIES" = "Серия из побед";
 "LS_CLAN_BATTLES" = "Сражений";
 "LS_CLAN_WAR" = "Сражение Флота";
-"LS_ADD_TO_FAVORITES" = "Добавить в закладки";
+"LS_ADD_TO_FAVORITES" = "В закладки";
 "LS_CLAN_JOIN" = "Присоединиться";
 
 "LS_CLAN_INVITE" = "Пригласить";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "Ансон";
 "LS_KIRISHIMA" = "Кирисима";
 "LS_PROGETTO UP38" = "Проджетто UP38";
+
+"LS_KII" = "Кии";
+
+"LS_CLAN_NAME_SHORT" = "Аббревиатура";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Пожалуйста выберите один из вариантов или выберите новое.";
+
+"LS_SEARCH" = "ИСКАТЬ";
+
+"LS_DE GRASS" = "Де Грасс";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Введите первые буквы имени игрока";
+
+"LS_ALL" = "ВСЕ";
+"LS_ONLINE" = "ОНЛАЙН";
+
+"LS_AIR_FUEL_WARNING" = "ТОПЛИВО";

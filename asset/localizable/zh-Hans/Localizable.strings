@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "退出";
 "LS_GAME_EXIT_DESC" = "你想退出吗？";
 "LS_CLAN_SELECT_ICON" = "选择舰队图标";
-"LS_CLAN_ICON CHANGE" = "选择图标";
+"LS_CLAN_ICON_CHANGE" = "选择图标";
 "LS_CLAN_MEMBERS" = "舰队成员";
 "LS_CLAN_FAVORITES" = "舰队最爱";
 "LS_CLAN_WINS" = "舰队获胜";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "安森";
 "LS_KIRISHIMA" = "雾岛";
 "LS_PROGETTO UP38" = "UP38计划";
+
+"LS_KII" = "纪伊";
+
+"LS_CLAN_NAME_SHORT" = "简称";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "复制名称。[BR]请选择一个新舰队名字。";
+
+"LS_SEARCH" = "搜索";
+
+"LS_DE GRASS" = "德·格拉斯";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "输入玩家名字的首字母";
+
+"LS_ALL" = "全部";
+"LS_ONLINE" = "在线";
+
+"LS_AIR_FUEL_WARNING" = "燃料";

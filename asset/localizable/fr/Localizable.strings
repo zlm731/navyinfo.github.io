@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "Quitter";
 "LS_GAME_EXIT_DESC" = "Voulez-vous quitter?";
 "LS_CLAN_SELECT_ICON" = "Sélection de l'icône flotte";
-"LS_CLAN_ICON CHANGE" = "Changement d'icône";
+"LS_CLAN_ICON_CHANGE" = "Changement d'icône";
 "LS_CLAN_MEMBERS" = "Membres de la flotte";
 "LS_CLAN_FAVORITES" = "Favoris de la Flotte";
 "LS_CLAN_WINS" = "Victoire de la flotte";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Nom dupliqué. [BR] Veuillez sélectionner un nouveau nom de flotte";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "CARBURANT";

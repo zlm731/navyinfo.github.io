@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "خروج";
 "LS_GAME_EXIT_DESC" = "هل تريد الخروج ؟";
 "LS_CLAN_SELECT_ICON" = "اختيار ايقونة الاسطول";
-"LS_CLAN_ICON CHANGE" = "تغير الايقونة";
+"LS_CLAN_ICON_CHANGE" = "تغير الايقونة";
 "LS_CLAN_MEMBERS" = "أعضاء الاسطول";
 "LS_CLAN_FAVORITES" = "مفضلات الاسطول";
 "LS_CLAN_WINS" = "انتصارات الاسطول";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "أسم مكرر . من أسطول اختر قبطان بأسم أخر";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "وقود";

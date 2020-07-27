@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "ゲーム終了";
 "LS_GAME_EXIT_DESC" = "ゲームを終了しますか？";
 "LS_CLAN_SELECT_ICON" = "艦隊アイコンを選択";
-"LS_CLAN_ICON CHANGE" = "アイコン変更";
+"LS_CLAN_ICON_CHANGE" = "アイコン変更";
 "LS_CLAN_MEMBERS" = "艦隊メンバー";
 "LS_CLAN_FAVORITES" = "ブックマーク";
 "LS_CLAN_WINS" = "勝利数";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "略";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "この名前は重複しています。新しい艦隊名を入力して下さい。(下記の名前はいかがですか？)";
+
+"LS_SEARCH" = "検索";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "検索する艦長名を入れてください";
+
+"LS_ALL" = "全て";
+"LS_ONLINE" = "プレイ中";
+
+"LS_AIR_FUEL_WARNING" = "燃料";

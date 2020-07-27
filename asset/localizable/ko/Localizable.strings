@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "게임종료";
 "LS_GAME_EXIT_DESC" = "게임을 종료하시겠습니까?";
 "LS_CLAN_SELECT_ICON" = "함대인장 선택";
-"LS_CLAN_ICON CHANGE" = "함대인장 선택";
+"LS_CLAN_ICON_CHANGE" = "함대인장 선택";
 "LS_CLAN_MEMBERS" = "함대 맴버";
 "LS_CLAN_FAVORITES" = "북마크";
 "LS_CLAN_WINS" = "승리 횟수";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "단축명";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "중복된 이름입니다. 새로운 함대명을 입력해 주세요. ";
+
+"LS_SEARCH" = "검색";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "검색할 함장명을 넣어주세요";
+
+"LS_ALL" = "모든 함장";
+"LS_ONLINE" = "접속 중인 함장";
+
+"LS_AIR_FUEL_WARNING" = "연료";

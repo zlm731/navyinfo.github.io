@@ -4126,14 +4126,14 @@
 "LS_GAME_EXIT" = "Вихід";
 "LS_GAME_EXIT_DESC" = "Ви впевнені що хочете вийти?";
 "LS_CLAN_SELECT_ICON" = "Вибрати";
-"LS_CLAN_ICON CHANGE" = "Змінити";
+"LS_CLAN_ICON_CHANGE" = "Прапор";
 "LS_CLAN_MEMBERS" = "Склад флоту";
 "LS_CLAN_FAVORITES" = "ЗАКЛАДКИ";
 "LS_CLAN_WINS" = "Перемоги";
 "LS_CLAN_WIN_SERIES" = "Серія з перемог";
 "LS_CLAN_BATTLES" = "Битв";
 "LS_CLAN_WAR" = "Бій Флоту";
-"LS_ADD_TO_FAVORITES" = "Додати в закладки";
+"LS_ADD_TO_FAVORITES" = "В закладки";
 "LS_CLAN_JOIN" = "Приєднатися";
 
 "LS_CLAN_INVITE" = "Запросити";
@@ -4200,7 +4200,7 @@
 "LS_SUPPORT_TRANSPORT" = "Допоміжний Транспорт";
 "LS_ACCOUNT_VIP" = "VIP";
 "LS_ACCOUNT_PREMIUM" = "Premium";
-"LS_ACCOUNT_FREE" = "СТАНДАРТ";
+"LS_ACCOUNT_FREE" = "БЕЗКОШТОВНИЙ";
 
 "LS_RANK_0" = "Матрос";
 "LS_RANK_1" = "Молодший лейтенант";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "Ансон";
 "LS_KIRISHIMA" = "Кірішима";
 "LS_PROGETTO UP38" = "Проджетто UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Абревіатура";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Будь ласка виберіть один з варіантів або виберіть нове.";
+
+"LS_SEARCH" = "ШУКАТИ";
+
+"LS_DE GRASS" = "Де Грасс";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Введіть перші літери імені гравця";
+
+"LS_ALL" = "ВСI";
+"LS_ONLINE" = "ОНЛАЙН";
+
+"LS_AIR_FUEL_WARNING" = "ПАЛИВО";

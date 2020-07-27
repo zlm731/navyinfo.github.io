@@ -4126,7 +4126,7 @@
 "LS_GAME_EXIT" = "Verlaat";
 "LS_GAME_EXIT_DESC" = "Wil je het spel verlaten?";
 "LS_CLAN_SELECT_ICON" = "Vlootvlag selectie";
-"LS_CLAN_ICON CHANGE" = "SELECTEER VLAG";
+"LS_CLAN_ICON_CHANGE" = "SELECTEER VLAG";
 "LS_CLAN_MEMBERS" = "Vlootleden";
 "LS_CLAN_FAVORITES" = "Favoriete vloten";
 "LS_CLAN_WINS" = "Vloot winsten";
@@ -5284,3 +5284,20 @@
 "LS_ANSON" = "HMS Anson";
 "LS_KIRISHIMA" = "Kirishima";
 "LS_PROGETTO UP38" = "Progetto UP38";
+
+"LS_KII" = "Kii";
+
+"LS_CLAN_NAME_SHORT" = "Abbreviation";
+
+"LS_CLAN_CHANGE_NAME_PLEASE_SELECT" = "Dubbele naam. [BR] Kies een nieuwe vloot naam alstublieft.";
+
+"LS_SEARCH" = "SEARCH";
+
+"LS_DE GRASS" = "De Grass";
+
+"LS_PROFILE_SEARCH_INSERT_FIRST_CHARS" = "Enter first letters of player's name";
+
+"LS_ALL" = "ALL";
+"LS_ONLINE" = "ONLINE";
+
+"LS_AIR_FUEL_WARNING" = "BRANDSTOF";
