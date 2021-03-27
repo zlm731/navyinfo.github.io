@@ -5197,7 +5197,7 @@
 "LS_JAPAN_C2_POLICY_BUTTON" = "プライバシーポリシー";
 
 "LS_CW_CONQUEST" = "CONQUEST";
-"LS_CW_WAR" = "WORLD";
+"LS_CW_WORLD" = "WORLD";
 "LS_CW_CONQUEROR" = "CONQUEROR";
 
 "LS_CW_MANAGER" = "Manager";
@@ -5205,7 +5205,7 @@
 "LS_CW_ABERDEEN" = "Aberdeen";
 "LS_CW_EDINBURGH" = "Edinburgh";
 "LS_CW_LONDON" = "London";
-"LS_CW_PORTSMOUTH" = "Portsmounth";
+"LS_CW_PORTSMOUTH" = "Portsmouth";
 "LS_CW_BRISTOL" = "Bristol";
 "LS_CW_LIVERPOOL" = "Liverpool";
 "LS_CW_GLASGOW" = "Glasgow";
@@ -5217,9 +5217,7 @@
 "LS_CW_DONATION" = "DONATION";
 "LS_CW_SET_DEFENCE" = "SET DEFENCE";
 "LS_CW_SEND_SHIPS" = "SEND SHIPS";
-"LS_CW_TAX_RATE_MODIFY" = "CHANGE TAX RATE";
 "LS_CW_BASE_PORT" = "CAPITAL";
-"LS_CW_CONVERSION" = "CONVERSION";
 "LS_CW_DEVELOPMENT" = "DEVELOPMENT";
 
 "LS_CW_SAPPORO" = "Sapporo";
@@ -5268,8 +5266,8 @@
 "LS_CW_MANAGEMENT" = "MANAGEMENT";
 
 "LS_CW_WAR_DECLARATION_NOTICE" = "Declaration of War";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "In order to declare war, the attack fleet must have more than 5 fleet members. ";
-"LS_CW_WAR_DESC" = "The war will begin after 24 hours.After the declaration of the war, attacker should confirmparticipants before battle time. If the number of participants is not enough, it is judged that no battle is conducted.The new fleet cannot declare war for a month.";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "In order to declare war, the fleet must have more than 10 fleet members. At least 3 members who have 70 level captain are required.";
+"LS_CW_WAR_DESC" = "1.The war will begin after 24 hours.[BR]2.After the declaration of the war, the attacker should confirmparticipants before battle time.[BR] 3.If the attacker defeats, the attacker cannot declare war for the same city during a month.[BR]4.Also the new fleet cannot declare war for a month.";
 
 "LS_SETTINGS_TRANSLATE_LANG" = "Transaltion language";
 "LS_SETTINGS_SHOW_TRANSLATE" = "Translation function";
@@ -5301,3 +5299,100 @@
 "LS_ONLINE" = "ONLINE";
 
 "LS_AIR_FUEL_WARNING" = "COMBUSTIVEL";
+
+"LS_TENNESSEE(1945)" = "Tennessee(1945)";
+"LS_RODNEY" = "HMS Rodney";
+"LS_MIKASA" = "Mikasa";
+"LS_O PROJECT II" = "O Project II";
+"LS_BORODINO" = "Borodino";
+"LS_DANTON" = "Danton";
+"LS_REGINA ELENA" = "Regina Elena";
+
+"LS_CW_TIME_ATTACK" = "Protection remained";
+"LS_CW_UPGRADE" = "UPGRADE";
+"LS_CW_DEFENCE" = "DEFENCE";
+"LS_CW_DONATE_SHIP" = "GUARD";
+"LS_CW_SECONDARY_PRODUCTION" = "SECONDARY RESOURCE";
+"LS_CW_SECONDARY_PRODUCTION_INFO" = "Basic resources can be used for produce secondary resources";
+"LS_CW_DAILY_RATE" = "Daily production";
+"LS_CLOSE" = "CLOSE";
+"LS_SHIP_IN_GUARD_CWCITY" = "IN GUARD FOR CITY";
+"LS_MENU_INVENTORY" = "INVENTORY";
+"LS_CW_ITEM_AVAILABLE" = "AVAILABLE";
+"LS_CW_ITEM_HISTORY" = "HISTORY";
+"LS_APPLY" = "APPLY";
+"LS_CW_SHIP_NOTICE" = "Any sunk ship is returned as 0% DP and fuel after battles in Conquest World.";
+"LS_ASSIGNED" = "ASSIGNED";
+"LS_CW_CITY_CLOSED" = "CITY CLOSED";
+"LS_MENU_MODE_ONLINE_CW_BREAKTHROUGH" = "CONQUEST WORLD BREAKTHROUGH";
+"LS_MENU_MODE_ONLINE_CW_BATTLE" = "CONQUEST WORLD INVASION";
+"LS_CW_CITY_CAPTURED" = "The city is captured by ";
+"LS_CW_CITY_UPGRADE" = "CITY UPGRADE";
+"LS_CW_CITY_UPGRADE_INFO" = "Upgrade your city to produce more resources.";
+"LS_CW_CITY_LEVEL" = "CITY LEVEL";
+"LS_SEND" = "SEND";
+"LS_CW_STAGE1" = "STAGE1";
+"LS_CW_STAGE2" = "STAGE2";
+"LS_CW_ASSIGNED_PLAYERS_SHIP" = "ASSIGNED SHIP";
+"LS_NOT_SELECTED" = "NOT SELECTED";
+"LS_CW_BATTLE_TIME" = "BATTLE TIME";
+"LS_CW_TIMEZONE_INFO_1" = "1. Battle time Is the period when your port is opened for enemies' attack.";
+"LS_CW_TIMEZONE_INFO_2" = "2. The enemy can declare war during the period and the battle will begin at the same time tomorrow.";
+"LS_CW_TIMEZONE_INFO_3" = "3. Set battle time zone that will allow your fleet member to participate.";
+
+"LS_CW_WAR_FIASKO" = "Failed to attack";
+"LS_SHIP_SERVICE" = "SALVAGE";
+"LS_SHIP_SERVICE_UNVAILABLE" = "Ship is unavailable during";
+
+"LS_CW_DECLARE_WAR" = "DECLARAR GUERRA";
+"LS_CW_MANAGER_TIME" = "Manager Time";
+"LS_CW_SENT_SHIPS" = "Support Ships";
+"LS_CW_APPOINT" = "APPOINT";
+
+"LS_CW_WE_ARE_ATTACKING_CITY" = "We are attacking city";
+"LS_CW_OUR_CITY" = "Our city";
+"LS_CW_UNDER_ATTACK_BY_FLEET" = "War is declared by fleet";
+"LS_CW_ATTACKER_CONQUERED" = "was conquered! Total Victory!";
+"LS_CW_DEFENDER_LOST_CITY" = "We lost city";
+"LS_CW_ATTACKER_LOST_BATTLE" = "We were defeated the battle for city";
+"LS_CW_DEFENDER_WIN_BATTLE" = "We win the battle for city";
+"LS_CW_ALL_ATTACKER_LOST_BATTLE" = "fleet was defeated the battle for city";
+"LS_CW_ALL_DEFENDER_LOST_CITY" = "was сonquered by fleet";
+"LS_SHIP_SUNKEN" = "SUNKEN";
+"LS_STORE_TAB_PREMIUM" = "ACCOUNT";
+"LS_STORE_TAB_SHIP" = "SHIPS";
+"LS_STORE_GOLD_DESC" = "Gold is main game currency. Gold used for reducing time of construction or upgrades. Used for purchasing additional ship items and gold can help in case not enough resources.";
+"LS_PREMIUM_ACCOUNT_TITLE" = "PREMIUM game account";
+"LS_PREMIUM_ACCOUNT_DAILY" = "additional resources every day";
+"LS_PREMIUM_ACCOUNT_RESOURCE_DOUBLE" = "double resources and crew expirience";
+"LS_PREMIUM_ACCOUNT_GOLD_BONUS" = "additional bonus for any gold purchase";
+"LS_PREMIUM_ACCOUNT_ONE_WEEK" = "7 Premium Days ";
+"LS_PREMIUM_ACCOUNT_ONE_MONTH" = "30 Premium Days ";
+"LS_PREMIUM_ACCOUNT_BEST_PRICE" = "*Best price";
+"LS_BONUS_PREMIUM" = "Premium account bonus";
+"LS_STORE_TAB_HISTORY" = "HISTORY";
+"LS_CW_SHIP_CITY_WAR" = "CITY DEFENSE";
+
+"LS_CW_WAR_NEWFLEET" = "New fleet cannot declare war during a month";
+"LS_EDIT_CLAN_INFO" = "FLEET INFO";
+"LS_SERVER_WILL_BE_UPGRADED_AFTER" = "Game server will be stopped to update after";
+"LS_EDIT_CLAN_INFO_FAILED" = "Can't change Fleet's info.";
+"LS_CW_CITY_WAR_WILL_STARTED" = "Battle will be started soon";
+
+"LS_PREMIUM_BOOST_INFO" = "Online battle rewards extra boost";
+"LS_PREMIUM_BOOST" = "BOOST 30 DAYS";
+"LS_SETTINGS_CHAT_LANG" = "Chat channel";
+
+"LS_DES MOINES" = "Des Moines";
+"LS_ARCHER" = "HMS Archer";
+"LS_MIYAKO" = "Miyako";
+"LS_BLUCHER" = "Blücher";
+"LS_ADMIRAL NAKHIMOV" = "Admiral Nakhimov";
+"LS_MANDEL" = "Mandel";
+"LS_TRIESTE" = "Trieste";
+
+"LS_DOWNLOAD" = "DOWNLOAD";
+"LS_LOADING" = "LOADING…";
+"LS_SETTINGS_REPLAY_CACHE" = "REPLAYS";
+"LS_CLEAR" = "CLEAR";
+"LS_REPLAY_DATA_ERROR" = "Replay file is unavailable. Please try again later.";

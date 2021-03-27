@@ -5197,7 +5197,7 @@
 "LS_JAPAN_C2_POLICY_BUTTON" = "プライバシーポリシー";
 
 "LS_CW_CONQUEST" = "ПОКОРЕНИЕ";
-"LS_CW_WAR" = "МИРА";
+"LS_CW_WORLD" = "МИРА";
 "LS_CW_CONQUEROR" = "ПОКОРИТЕЛЬ";
 
 "LS_CW_MANAGER" = "Управляющий";
@@ -5212,14 +5212,12 @@
 
 "LS_CW_MANAGMENT" = "УПРАВЛЕНИЕ";
 "LS_CW_DONATION" = "ВЗНОСЫ";
-"LS_CW_ADMIRAL" = "Адмирал";
-"LS_CW_DISTRIBUTION" = "ПРОИЗВОДСТВО";
+"LS_CW_ADMIRAL" = "АДМИРАЛ";
+"LS_CW_DISTRIBUTION" = "РАСПРЕДЕЛЕНИЕ";
 "LS_CW_DONATION" = "ВЗНОС";
 "LS_CW_SET_DEFENCE" = "ОБОРОНА";
 "LS_CW_SEND_SHIPS" = "КОРАБЛИ";
-"LS_CW_TAX_RATE_MODIFY" = "НАЛОГИ";
 "LS_CW_BASE_PORT" = "СТОЛИЦА";
-"LS_CW_CONVERSION" = "КОНВЕРСИЯ";
 "LS_CW_DEVELOPMENT" = "СТРОИТЕЛЬСТВО";
 
 "LS_CW_SAPPORO" = "Саппоро";
@@ -5268,7 +5266,7 @@
 "LS_CW_MANAGEMENT" = "УПРАВЛЕНИЕ";
 
 "LS_CW_WAR_DECLARATION_NOTICE" = "Объявление Войны";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "В порядке объявления Войны, атакующий Флот должен быть не менее 5 игроков.";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "В порядке объявления Войны, атакующий Флот должен быть не менее 10 игроков. Минимум 3 игрока Флота должны быть не ниже 70 уровня.";
 "LS_CW_WAR_DESC" = "Война начнется через 24 часа после объявления.Атакующий Флот должен подтвердить всех участников перед началом Сражений. В случае если участников Флота будет недостаточно, Объявление Войны будет отозвано, а атакующий Флот не сможет объявлять Войны в течение месяца.";
 
 "LS_SETTINGS_TRANSLATE_LANG" = "Язык перевода";
@@ -5301,3 +5299,100 @@
 "LS_ONLINE" = "ОНЛАЙН";
 
 "LS_AIR_FUEL_WARNING" = "ТОПЛИВО";
+
+"LS_TENNESSEE(1945)" = "Теннесси (1945)";
+"LS_RODNEY" = "Родни";
+"LS_MIKASA" = "Микаса";
+"LS_O PROJECT II" = "Проект O  II";
+"LS_BORODINO" = "Бородино";
+"LS_DANTON" = "Дантон";
+"LS_REGINA ELENA" = "Реджина Елена";
+
+"LS_CW_TIME_ATTACK" = "Защита действует";
+"LS_CW_UPGRADE" = "УЛУЧШЕНИЕ";
+"LS_CW_DEFENCE" = "ОБОРОНА";
+"LS_CW_DONATE_SHIP" = "ОХРАНА";
+"LS_CW_SECONDARY_PRODUCTION" = "ДОПОЛНИТЕЛЬНЫЙ РЕСУРС";
+"LS_CW_SECONDARY_PRODUCTION_INFO" = "Основные ресурсы могут быть использованы для производства дополнительных ресурсов";
+"LS_CW_DAILY_RATE" = "Производство в сутки";
+"LS_CLOSE" = "ЗАКРЫТЬ";
+"LS_SHIP_IN_GUARD_CWCITY" = "В ОБОРОНЕ ГОРОДА";
+"LS_MENU_INVENTORY" = "ИНВЕНТАРЬ";
+"LS_CW_ITEM_AVAILABLE" = "ДОСТУПНО";
+"LS_CW_ITEM_HISTORY" = "ИСТОРИЯ";
+"LS_APPLY" = "ПРИМЕНИТЬ";
+"LS_CW_SHIP_NOTICE" = "Каждый потопленный корабль необходимо будет заново полностью восстановить и заправить.";
+"LS_ASSIGNED" = "НАЗНАЧЕН";
+"LS_CW_CITY_CLOSED" = "ГОРОД ЗАКРЫТ";
+"LS_MENU_MODE_ONLINE_CW_BREAKTHROUGH" = "ПОКОРЕНИЕ МИРА ПРОРЫВ";
+"LS_MENU_MODE_ONLINE_CW_BATTLE" = "ПОКОРЕНИЕ МИРА ВТОРЖЕНИЕ";
+"LS_CW_CITY_CAPTURED" = "Город захвачен";
+"LS_CW_CITY_UPGRADE" = "УЛУЧШЕНИЕ ГОРОДА";
+"LS_CW_CITY_UPGRADE_INFO" = "Улучшайте свои города для увеличения производства";
+"LS_CW_CITY_LEVEL" = "УРОВЕНЬ ГОРОДА";
+"LS_SEND" = "ОТПРАВИТЬ";
+"LS_CW_STAGE1" = "СТАДИЯ 1";
+"LS_CW_STAGE2" = "СТАДИЯ 2";
+"LS_CW_ASSIGNED_PLAYERS_SHIP" = "НАЗНАЧЕННЫЙ КОРАБЛЬ";
+"LS_NOT_SELECTED" = "НЕ ВЫБРАН";
+"LS_CW_BATTLE_TIME" = "ПЕРИОД НАПАДЕНИЯ";
+"LS_CW_TIMEZONE_INFO_1" = "1. Период времени когда ваш город открыт для нападения.";
+"LS_CW_TIMEZONE_INFO_2" = "2. Флот противника может объявить войну в этот период, и сражения начнутся в то же время на следующий день.";
+"LS_CW_TIMEZONE_INFO_3" = "3. Выбирайте период времени подходящий большинству игроков вашего Флота.";
+
+"LS_CW_WAR_FIASKO" = "Нападение сорвано";
+"LS_SHIP_SERVICE" = "ЗАТОПЛЕН";
+"LS_SHIP_SERVICE_UNVAILABLE" = "Корабль недоступен";
+
+"LS_CW_DECLARE_WAR" = "Напасть";
+"LS_CW_MANAGER_TIME" = "Время управления";
+"LS_CW_SENT_SHIPS" = "Отправлено кораблей";
+"LS_CW_APPOINT" = "НАЗНАЧИТЬ";
+
+"LS_CW_WE_ARE_ATTACKING_CITY" = "Мы атакуем город";
+"LS_CW_OUR_CITY" = "Наш город";
+"LS_CW_UNDER_ATTACK_BY_FLEET" = "атакован Флотом";
+"LS_CW_ATTACKER_CONQUERED" = "наш! Полная Победа! ";
+"LS_CW_DEFENDER_LOST_CITY" = "мы потеряли город";
+"LS_CW_ATTACKER_LOST_BATTLE" = "Мы проиграли сражение за город";
+"LS_CW_DEFENDER_WIN_BATTLE" = "Мы выиграли сражение за город";
+"LS_CW_ALL_ATTACKER_LOST_BATTLE" = "флот проиграл сражение за город";
+"LS_CW_ALL_DEFENDER_LOST_CITY" = "только что захвачен флотом";
+"LS_SHIP_SUNKEN" = "ЗАТОПЛЕН";
+"LS_STORE_TAB_PREMIUM" = "АККАУНТ";
+"LS_STORE_TAB_SHIP" = "КОРАБЛИ";
+"LS_STORE_GOLD_DESC" = "Золото - основная валюта игры. Золото используется для сокращения времени строительства и улучшений. Необходимо для покупки премиум кораблей и может помочь в случае недостатка ресурсов.";
+"LS_PREMIUM_ACCOUNT_TITLE" = "ПРЕМИУМ игровой аккаунт";
+"LS_PREMIUM_ACCOUNT_DAILY" = "дополнительные ресурсы каждый день";
+"LS_PREMIUM_ACCOUNT_RESOURCE_DOUBLE" = "удвоенные ресурсы и опыт";
+"LS_PREMIUM_ACCOUNT_GOLD_BONUS" = "бонус с каждой покупкой золота";
+"LS_PREMIUM_ACCOUNT_ONE_WEEK" = "7 ПРЕМИУМ дней";
+"LS_PREMIUM_ACCOUNT_ONE_MONTH" = "30 ПРЕМИУМ дней";
+"LS_PREMIUM_ACCOUNT_BEST_PRICE" = "*лучшая цена";
+"LS_BONUS_PREMIUM" = "Премиум аккаунт бонус";
+"LS_STORE_TAB_HISTORY" = "ИСТОРИЯ";
+"LS_CW_SHIP_CITY_WAR" = "ОБОРОНА ГОРОДА";
+
+"LS_CW_WAR_NEWFLEET" = "Неопытный Флот";
+"LS_EDIT_CLAN_INFO" = "ПАРАМЕТРЫ ФЛОТА";
+"LS_SERVER_WILL_BE_UPGRADED_AFTER" = "Игровой сервер будет остановлен на обновление через";
+"LS_EDIT_CLAN_INFO_FAILED" = "Невозможно изменить параметры Флота";
+"LS_CW_CITY_WAR_WILL_STARTED" = "Сражение скоро начнется";
+
+"LS_PREMIUM_BOOST_INFO" = "ускорение за онлайн сражения";
+"LS_PREMIUM_BOOST" = "УСКОРЕНИЕ 30 ДНЕЙ";
+"LS_SETTINGS_CHAT_LANG" = "Канал чата";
+
+"LS_DES MOINES" = "Де Мойн";
+"LS_ARCHER" = "Арчер";
+"LS_MIYAKO" = "Мияко";
+"LS_BLUCHER" = "Блюхер";
+"LS_ADMIRAL NAKHIMOV" = "Адмирал Нахимов";
+"LS_MANDEL" = "Мандель";
+"LS_TRIESTE" = "Триест";
+
+"LS_DOWNLOAD" = "ЗАГРУЗИТЬ";
+"LS_LOADING" = "ЗАГРУЗКА…";
+"LS_SETTINGS_REPLAY_CACHE" = "ПОВТОРЫ";
+"LS_CLEAR" = "ОЧИСТИТЬ";
+"LS_REPLAY_DATA_ERROR" = "Файл повтора недоступен. Пожалуйста, попробуйте еще раз позже.";

@@ -76,13 +76,13 @@
 "LS_MENU_CLASS_SELECT_CAMPAIGN_MODE" = "キャンペーンモード";
 "LS_MENU_CLASS_SELECT" = "選択する";
 
-"LS_CLASS_NAME_SHORT_DD" = "駆逐艦";
-"LS_CLASS_NAME_SHORT_CL" = "軽巡洋艦";
-"LS_CLASS_NAME_SHORT_CA" = "重巡洋艦";
-"LS_CLASS_NAME_SHORT_BB" = "戦艦 ";
-"LS_CLASS_NAME_SHORT_CV" = "航空母艦";
-"LS_CLASS_NAME_SHORT_SS" = "潜水艦 ";
-"LS_CLASS_NAME_SHORT_APA" = "輸送船";
+"LS_CLASS_NAME_SHORT_DD" = "DD";
+"LS_CLASS_NAME_SHORT_CL" = "CL";
+"LS_CLASS_NAME_SHORT_CA" = "CA";
+"LS_CLASS_NAME_SHORT_BB" = "BB";
+"LS_CLASS_NAME_SHORT_CV" = "CV";
+"LS_CLASS_NAME_SHORT_SS" = "SS";
+"LS_CLASS_NAME_SHORT_APA" = "APA";
 
 
 
@@ -5197,7 +5197,7 @@
 "LS_JAPAN_C2_POLICY_BUTTON" = "プライバシーポリシー";
 
 "LS_CW_CONQUEST" = "CONQUEST";
-"LS_CW_WAR" = "WORLD";
+"LS_CW_WORLD" = "WORLD";
 "LS_CW_CONQUEROR" = "CONQUEROR";
 
 "LS_CW_MANAGER" = "Manager";
@@ -5205,21 +5205,19 @@
 "LS_CW_ABERDEEN" = "Aberdeen";
 "LS_CW_EDINBURGH" = "Edinburgh";
 "LS_CW_LONDON" = "London";
-"LS_CW_PORTSMOUTH" = "Portsmounth";
+"LS_CW_PORTSMOUTH" = "Portsmouth";
 "LS_CW_BRISTOL" = "Bristol";
 "LS_CW_LIVERPOOL" = "Liverpool";
 "LS_CW_GLASGOW" = "Glasgow";
 
-"LS_CW_MANAGMENT" = "MANAGEMENT";
+"LS_CW_MANAGMENT" = "管理";
 "LS_CW_DONATION" = "DONATION";
 "LS_CW_ADMIRAL" = "ADMIRAL";
-"LS_CW_DISTRIBUTION" = "DISTRIBUTION";
+"LS_CW_DISTRIBUTION" = "資源配分";
 "LS_CW_DONATION" = "DONATION";
-"LS_CW_SET_DEFENCE" = "SET DEFENCE";
-"LS_CW_SEND_SHIPS" = "SEND SHIPS";
-"LS_CW_TAX_RATE_MODIFY" = "CHANGE TAX RATE";
+"LS_CW_SET_DEFENCE" = "ディフェンス";
+"LS_CW_SEND_SHIPS" = "艦船配備";
 "LS_CW_BASE_PORT" = "CAPITAL";
-"LS_CW_CONVERSION" = "CONVERSION";
 "LS_CW_DEVELOPMENT" = "DEVELOPMENT";
 
 "LS_CW_SAPPORO" = "Sapporo";
@@ -5262,14 +5260,14 @@
 "LS_DE GRASSE" = "De Grasse";
 "LS_LUIGI CADORNA" = "Luigi Cadorna";
 
-"LS_CW_CONQUEROR_EMPTY" = "none";
-"LS_CW_MANAGER_EMPTY" = "none";
+"LS_CW_CONQUEROR_EMPTY" = "なし";
+"LS_CW_MANAGER_EMPTY" = "なし";
 "LS_CW_ATTACK" = "WAR";
-"LS_CW_MANAGEMENT" = "MANAGEMENT";
+"LS_CW_MANAGEMENT" = "管理";
 
-"LS_CW_WAR_DECLARATION_NOTICE" = "Declaration of War";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "In order to declare war, the attack fleet must have more than 5 fleet members. ";
-"LS_CW_WAR_DESC" = "The war will begin after 24 hours.After the declaration of the war, attacker should confirmparticipants before battle time. If the number of participants is not enough, it is judged that no battle is conducted.The new fleet cannot declare war for a month.";
+"LS_CW_WAR_DECLARATION_NOTICE" = "宣戦布告";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "宣戦布告するためには攻撃メンバーが10人以上必要です。また70レベル超えの艦長が3人以上必要です。";
+"LS_CW_WAR_DESC" = "24時間後に開戦します。[BR] 開戦前に攻撃隊はメンバーを確認し戦闘に参加してください。[BR] 敗戦すると同じ都市には１ヶ月間宣戦布告することができません。[BR] また新生艦隊も１ヶ月間宣戦布告することができません。";
 
 "LS_SETTINGS_TRANSLATE_LANG" = "翻訳言語";
 "LS_SETTINGS_SHOW_TRANSLATE" = "翻訳機能";
@@ -5301,3 +5299,100 @@
 "LS_ONLINE" = "プレイ中";
 
 "LS_AIR_FUEL_WARNING" = "燃料";
+
+"LS_TENNESSEE(1945)" = "Tennessee(1945)";
+"LS_RODNEY" = "HMS Rodney";
+"LS_MIKASA" = "Mikasa";
+"LS_O PROJECT II" = "O Project II";
+"LS_BORODINO" = "Borodino";
+"LS_DANTON" = "Danton";
+"LS_REGINA ELENA" = "Regina Elena";
+
+"LS_CW_TIME_ATTACK" = "残り保護時間";
+"LS_CW_UPGRADE" = "アップグレード";
+"LS_CW_DEFENCE" = "ディフェンス";
+"LS_CW_DONATE_SHIP" = "支援";
+"LS_CW_SECONDARY_PRODUCTION" = "補助資源生産";
+"LS_CW_SECONDARY_PRODUCTION_INFO" = "基本資源を使い、補助資源を生産できます。";
+"LS_CW_DAILY_RATE" = "1日生産量";
+"LS_CLOSE" = "閉じる";
+"LS_SHIP_IN_GUARD_CWCITY" = "ディフェンス支援";
+"LS_MENU_INVENTORY" = "インベントリ";
+"LS_CW_ITEM_AVAILABLE" = "資源";
+"LS_CW_ITEM_HISTORY" = "履歴";
+"LS_APPLY" = "確認";
+"LS_CW_SHIP_NOTICE" = "Conquest Worldに参加し沈没した艦船はDPと燃料が０％で復帰します。";
+"LS_ASSIGNED" = "配備中";
+"LS_CW_CITY_CLOSED" = "接近不可";
+"LS_MENU_MODE_ONLINE_CW_BREAKTHROUGH" = "CONQUEST WORLD 突破作戦";
+"LS_MENU_MODE_ONLINE_CW_BATTLE" = "CONQUEST WORLD インベージョン";
+"LS_CW_CITY_CAPTURED" = "都市を占領しました。";
+"LS_CW_CITY_UPGRADE" = "アップグレード";
+"LS_CW_CITY_UPGRADE_INFO" = "都市をアップグレードするとより多い資源を生産できます。";
+"LS_CW_CITY_LEVEL" = "レベル";
+"LS_SEND" = "確認";
+"LS_CW_STAGE1" = "ステージ1";
+"LS_CW_STAGE2" = "ステージ2";
+"LS_CW_ASSIGNED_PLAYERS_SHIP" = "配備した艦船";
+"LS_NOT_SELECTED" = "NOT SELECTED";
+"LS_CW_BATTLE_TIME" = "開戦時間";
+"LS_CW_TIMEZONE_INFO_1" = "1. 開戦時間は都市が攻撃者にオープンされる時間です。";
+"LS_CW_TIMEZONE_INFO_2" = "2. 戦闘時間に攻撃者は宣戦布告が可能になり、翌日同じ時間に開戦します。";
+"LS_CW_TIMEZONE_INFO_3" = "3. 戦闘に参加できる艦隊員が多い時間を選んでください。";
+
+"LS_CW_WAR_FIASKO" = "攻撃失敗";
+"LS_SHIP_SERVICE" = "引き揚げ作業";
+"LS_SHIP_SERVICE_UNVAILABLE" = "引き揚げ作業残り時間";
+
+"LS_CW_DECLARE_WAR" = "宣戦布告";
+"LS_CW_MANAGER_TIME" = "管理時間";
+"LS_CW_SENT_SHIPS" = "艦船支援";
+"LS_CW_APPOINT" = "任命";
+
+"LS_CW_WE_ARE_ATTACKING_CITY" = "艦隊が都市を攻撃しています。";
+"LS_CW_OUR_CITY" = "都市";
+"LS_CW_UNDER_ATTACK_BY_FLEET" = "艦隊から攻撃されています。";
+"LS_CW_ATTACKER_CONQUERED" = "占領しました！勝利です！";
+"LS_CW_DEFENDER_LOST_CITY" = "都市を奪われました。";
+"LS_CW_ATTACKER_LOST_BATTLE" = "戦闘で敗北しました。";
+"LS_CW_DEFENDER_WIN_BATTLE" = "戦闘で勝利しました。";
+"LS_CW_ALL_ATTACKER_LOST_BATTLE" = "戦闘で敗北しました。";
+"LS_CW_ALL_DEFENDER_LOST_CITY" = "占領しました。";
+"LS_SHIP_SUNKEN" = "沈没";
+"LS_STORE_TAB_PREMIUM" = "プレミアムアカウント";
+"LS_STORE_TAB_SHIP" = "艦船";
+"LS_STORE_GOLD_DESC" = "ゴールドは、艦船の乾燥やアップグレード、建物のアップグレードの時間を短縮することができ、ゲーム内のすべてのアイテムを購入することができます。";
+"LS_PREMIUM_ACCOUNT_TITLE" = "プレミアムアカウント";
+"LS_PREMIUM_ACCOUNT_DAILY" = "ログイン時のボーナスゴールドとランダムボックス支給";
+"LS_PREMIUM_ACCOUNT_RESOURCE_DOUBLE" = "鋼鉄、燃料、水兵経験値、自由経験値2倍を提供";
+"LS_PREMIUM_ACCOUNT_GOLD_BONUS" = "ゴールド購入時のボーナス2割追加";
+"LS_PREMIUM_ACCOUNT_ONE_WEEK" = "利用期間：7日";
+"LS_PREMIUM_ACCOUNT_ONE_MONTH" = "利用期間：30日";
+"LS_PREMIUM_ACCOUNT_BEST_PRICE" = "*人気商品";
+"LS_BONUS_PREMIUM" = "プレミアムアカウントボーナス";
+"LS_STORE_TAB_HISTORY" = "購入履歴";
+"LS_CW_SHIP_CITY_WAR" = "都市防衛";
+
+"LS_CW_WAR_NEWFLEET" = "新生艦隊は一ヶ月の間に宣戦布告をすることができません。";
+"LS_EDIT_CLAN_INFO" = "艦隊情報";
+"LS_SERVER_WILL_BE_UPGRADED_AFTER" = "アップデートのためにサーバー点検があります。サーバー点検までの残り時間：";
+"LS_EDIT_CLAN_INFO_FAILED" = "艦隊の情報を変更することができません。";
+"LS_CW_CITY_WAR_WILL_STARTED" = "戦闘がすぐに開始されます。";
+
+"LS_PREMIUM_BOOST_INFO" = "オンラインバトル追加報酬";
+"LS_PREMIUM_BOOST" = "プレミアムブースト30日";
+"LS_SETTINGS_CHAT_LANG" = "チャット言語";
+
+"LS_DES MOINES" = "Des Moines";
+"LS_ARCHER" = "HMS Archer";
+"LS_MIYAKO" = "Miyako";
+"LS_BLUCHER" = "Blücher";
+"LS_ADMIRAL NAKHIMOV" = "Admiral Nakhimov";
+"LS_MANDEL" = "Mandel";
+"LS_TRIESTE" = "Trieste";
+
+"LS_DOWNLOAD" = "ダウンロード";
+"LS_LOADING" = "読み込み中...";
+"LS_SETTINGS_REPLAY_CACHE" = "リプレイ";
+"LS_CLEAR" = "削除";
+"LS_REPLAY_DATA_ERROR" = "リプレイを利用することができません。後でリトライしてください。";

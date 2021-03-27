@@ -76,13 +76,13 @@
 "LS_MENU_CLASS_SELECT_CAMPAIGN_MODE" = "캠페인 모드";
 "LS_MENU_CLASS_SELECT" = "선택";
 
-"LS_CLASS_NAME_SHORT_DD" = "구축함";
-"LS_CLASS_NAME_SHORT_CL" = "경순양함";
-"LS_CLASS_NAME_SHORT_CA" = "중순양함";
-"LS_CLASS_NAME_SHORT_BB" = "전함 ";
-"LS_CLASS_NAME_SHORT_CV" = "항공모함";
-"LS_CLASS_NAME_SHORT_SS" = "잠수함 ";
-"LS_CLASS_NAME_SHORT_APA" = "수송선";
+"LS_CLASS_NAME_SHORT_DD" = "DD";
+"LS_CLASS_NAME_SHORT_CL" = "CL";
+"LS_CLASS_NAME_SHORT_CA" = "CA";
+"LS_CLASS_NAME_SHORT_BB" = "BB";
+"LS_CLASS_NAME_SHORT_CV" = "CV";
+"LS_CLASS_NAME_SHORT_SS" = "SS";
+"LS_CLASS_NAME_SHORT_APA" = "APA";
 
 
 
@@ -218,7 +218,7 @@
 "LS_TUT_FIRST_BATTLE_DESC" = "영국 해군은 군수물자를 운반중인 독일 수송선의 위치정보를 입수 하였다. 출격명령을 받은 영국 함대는 기관 고장으로 인해 정박 중인 독일 수송선을 찾게 되고, 쉽게 격침 시켰다. 그러나 수송선을 구조하러 온 독일 함대와 맞닥뜨려 전투가 시작된다.";
 "LS_TUT_FIRST_BATTLE_SUB_TITLE" = "독일 수송선이 항해 중인 해역으로 이동하여 격침 하시오.";
 "LS_TUT_STAGE_COMPLETED" = "완료!";
-"LS_CHAT_GLOBAL" = "전체";
+"LS_CHAT_GLOBAL" = "글로벌";
 "LS_CHAT_FRIENDS" = "친구";
 "LS_CHAT_TEAM" = "팀";
 "LS_CREATE_NAME" = "함장명";
@@ -4320,8 +4320,8 @@
 "LS_CHAT_CLAN_INVITE" = "초대";
 "LS_CHAT_ADMIN" = "관리";
 
-"LS_CLAN_ROLE_HEAD" = "리더";
-"LS_CLAN_ROLE_CO_LEADER" = "공동리더";
+"LS_CLAN_ROLE_HEAD" = "사령관";
+"LS_CLAN_ROLE_CO_LEADER" = "부사령관";
 "LS_CLAN_ROLE_OFFICER" = "장교";
 "LS_CLAN_ROLE_ENSIGN" = "함대원";
 
@@ -4446,11 +4446,11 @@
 "LS_MENU_MODE_ONLINE_BEGINNER" = "온라인 - 중급전투";
 "LS_BEGINNER_SHIP_REQUIRED" = "구축함과 순양함만 참가 가능합니다.";
 
-"LS_NATION_INFO_US" = "2차대전 승전국으로 강한 항공모함과 평균 이상의 화력을 보유한 전함이 특징이다. ";
-"LS_NATION_INFO_RN" = "강력한 화력과 장갑으로 무장한 전함은 적 진영을 순식간에 무력화 시킨다. 강력한 화력의 비밀은 짧은 사거리이다.  ";
-"LS_NATION_INFO_IJ" = "우수한 기동력을 보유한 전함과 강력한 어뢰로 무장한 어뢰함들은 선제 타격에 강점을 가진다. 우수한 기동력을 위하여 함선의 체력이 희생되었다.";
-"LS_NATION_INFO_KM" = "장사거리 함포를 장착한 전함들은 적에게 노출되지 않으며 적 진영에 심각한 타격을 준다. 장사거리 함포를 위해 포탄의 데미지를 희생하였다. ";
-"LS_NATION_INFO_SN" = "준수한 화력과 상당한 체력을 보유하여 특별한 약점이 없는 올라운드 플레이가 가능하다.";
+"LS_NATION_INFO_US" = "전반적으로 평균 이상의 포격전 성능을 자랑하는 올라운더, 강력한 전투기와 균형잡힌 성능의 공격기를 바탕으로 한 항공모함 강국이다.";
+"LS_NATION_INFO_RN" = "항공모함은 넉넉한 함재기와 뇌격기가 강점, 전함은 강한 공격력을 가지고 있으나 좁은 시야와 상대적으로 짧은 사거리는 단점이다.";
+"LS_NATION_INFO_IJ" = "강력한 어뢰, 급강하 폭격기의 공격으로 한순간에 적을 전투 불능으로 만들 수 있다. 빠른 속도와 선회, 연사로 적진 공략이 가능하다.";
+"LS_NATION_INFO_KM" = "가장 긴 사거리, 저각포, 뛰어난 성능의 사격 통제장치를 장착해 적을 유린할 수 있다. 단점은 상대적으로 큰 함체와 엔진, 대잠전에 특화 된 잠수함이 다수 존재한다.";
+"LS_NATION_INFO_SN" = "미국의 영원한 라이벌, 역시 무난한 밸런스형  함선보유 국가지만 각각의 개성을 지닌 함선들도 다수 존재한다. 상대적으로 큰 선체는 단점이다.";
 
 "LS_COMMUNITY_SITE" = "글로벌 커뮤니티 사이트";
 
@@ -4944,7 +4944,7 @@
 "LS_COLLECTION_OCEAN_GOING_NAVY" = "오션스 네이비";
 "LS_COLLECTION_THE_GLORY_OF_EMPIRE" = "더 글로리 오브 엠파이어";
 "LS_COLLECTION_ADMIRAL_DECISION" = "제독의 결단";
-"LS_COLLECTION_THE_EMPIRE_STRIKES_BACK" = "더 엠파이어 스크라이크 백";
+"LS_COLLECTION_THE_EMPIRE_STRIKES_BACK" = "더 엠파이어 스트라이크 백";
 "LS_COLLECTION_MASTER_AND_COMMANDER" = "마스터 앤 커맨더";
 "LS_COLLECTION_NORMANDY_INVASION" = "노르만디 인베이젼";
 "LS_COLLECTION_COURAGE_UNDER_FIRE" = "커리지 언더 파이어";
@@ -5146,8 +5146,8 @@
 "LS_ONLINE_MIDDLE_15" = "Windmill";
 "LS_ONLINE_MIDDLE_16" = "Secret Passage";
 
-"LS_NATION_INFO_FR" = "전함의 경우 독특한 4연장 함포를 장비한 함선들이 있으며, 다양한 잠수함들을 경험할 수 있다.";
-"LS_NATION_INFO_IT" = "타국에 비해 전반적으로 작은 함선크기로 인해 피탄면적에서 우월함을 보유하며, 소형 전함과 같은 독특한 함선들과 강력한 중순양함, 경순양함을 보유하고 있다.";
+"LS_NATION_INFO_FR" = "우수한 화력과 적절한 사거리를 기본으로 한 포격전에 특화된 국가, 항공모함 전력은 무난하나 잠수함 전력은 상대적으로 열세이다.";
+"LS_NATION_INFO_IT" = "잠수함, 항공모함 강국, 전함 역시 독일과 맞먹는 사거리를 가지고 있으나 다소 빈약한 대공망과 느린 선회력이 단점이다.";
 
 "LS_MARCELLO" = "Marcello";
 "LS_NATION_NAME_FR" = "프랑스해군";
@@ -5197,7 +5197,7 @@
 "LS_JAPAN_C2_POLICY_BUTTON" = "プライバシーポリシー";
 
 "LS_CW_CONQUEST" = "CONQUEST";
-"LS_CW_WAR" = "WORLD";
+"LS_CW_WORLD" = "WORLD";
 "LS_CW_CONQUEROR" = "CONQUEROR";
 
 "LS_CW_MANAGER" = "Manager";
@@ -5205,21 +5205,19 @@
 "LS_CW_ABERDEEN" = "Aberdeen";
 "LS_CW_EDINBURGH" = "Edinburgh";
 "LS_CW_LONDON" = "London";
-"LS_CW_PORTSMOUTH" = "Portsmounth";
+"LS_CW_PORTSMOUTH" = "Portsmouth";
 "LS_CW_BRISTOL" = "Bristol";
 "LS_CW_LIVERPOOL" = "Liverpool";
 "LS_CW_GLASGOW" = "Glasgow";
 
-"LS_CW_MANAGMENT" = "MANAGEMENT";
+"LS_CW_MANAGMENT" = "도시 관리";
 "LS_CW_DONATION" = "DONATION";
 "LS_CW_ADMIRAL" = "ADMIRAL";
-"LS_CW_DISTRIBUTION" = "DISTRIBUTION";
+"LS_CW_DISTRIBUTION" = "자원 배분";
 "LS_CW_DONATION" = "DONATION";
-"LS_CW_SET_DEFENCE" = "SET DEFENCE";
-"LS_CW_SEND_SHIPS" = "SEND SHIPS";
-"LS_CW_TAX_RATE_MODIFY" = "CHANGE TAX RATE";
+"LS_CW_SET_DEFENCE" = "도시 방어";
+"LS_CW_SEND_SHIPS" = "방어함선 배치";
 "LS_CW_BASE_PORT" = "CAPITAL";
-"LS_CW_CONVERSION" = "CONVERSION";
 "LS_CW_DEVELOPMENT" = "DEVELOPMENT";
 
 "LS_CW_SAPPORO" = "Sapporo";
@@ -5262,14 +5260,14 @@
 "LS_DE GRASSE" = "De Grasse";
 "LS_LUIGI CADORNA" = "Luigi Cadorna";
 
-"LS_CW_CONQUEROR_EMPTY" = "none";
-"LS_CW_MANAGER_EMPTY" = "none";
+"LS_CW_CONQUEROR_EMPTY" = "없음";
+"LS_CW_MANAGER_EMPTY" = "없음";
 "LS_CW_ATTACK" = "WAR";
-"LS_CW_MANAGEMENT" = "MANAGEMENT";
+"LS_CW_MANAGEMENT" = "도시 관리";
 
-"LS_CW_WAR_DECLARATION_NOTICE" = "Declaration of War";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "In order to declare war, the attack fleet must have more than 5 fleet members. ";
-"LS_CW_WAR_DESC" = "The war will begin after 24 hours.After the declaration of the war, attacker should confirmparticipants before battle time. If the number of participants is not enough, it is judged that no battle is conducted.The new fleet cannot declare war for a month.";
+"LS_CW_WAR_DECLARATION_NOTICE" = "선전포고";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "공격함대의 맴버가 최소 10인 이상이어야 선전포고가 가능합니다. 또한 3명 이상의 70레벨 함장이 필요합니다.";
+"LS_CW_WAR_DESC" = "24시간 후에 전투가 시작됩니다.[BR]전투시작 전에 공격함대는 참여인원을 확인하여 전투에 참여하세요.[BR]전투에서 패배 시 같은 도시에 대해서 한달간 선전포고를 할 수 없습니다.[BR]신생 함대는 한달간 선전포고를 할 수 없습니다.";
 
 "LS_SETTINGS_TRANSLATE_LANG" = "번역 언어";
 "LS_SETTINGS_SHOW_TRANSLATE" = "번역 기능";
@@ -5301,3 +5299,100 @@
 "LS_ONLINE" = "접속 중인 함장";
 
 "LS_AIR_FUEL_WARNING" = "연료";
+
+"LS_TENNESSEE(1945)" = "Tennessee(1945)";
+"LS_RODNEY" = "HMS Rodney";
+"LS_MIKASA" = "Mikasa";
+"LS_O PROJECT II" = "O Project II";
+"LS_BORODINO" = "Borodino";
+"LS_DANTON" = "Danton";
+"LS_REGINA ELENA" = "Regina Elena";
+
+"LS_CW_TIME_ATTACK" = "도시보호 남은 기간";
+"LS_CW_UPGRADE" = "도시 업그레이드";
+"LS_CW_DEFENCE" = "도시 방어";
+"LS_CW_DONATE_SHIP" = "함선 지원";
+"LS_CW_SECONDARY_PRODUCTION" = "2차 자원 생산";
+"LS_CW_SECONDARY_PRODUCTION_INFO" = "기본 자원(강철, 연료, 골드)은 2차 자원(부품, 진급명령서, 자유경험치)으로 변환하여 생산이 가능합니다.";
+"LS_CW_DAILY_RATE" = "일일 생산량";
+"LS_CLOSE" = "닫기";
+"LS_SHIP_IN_GUARD_CWCITY" = "도시 방어 지원";
+"LS_MENU_INVENTORY" = "자원 창고";
+"LS_CW_ITEM_AVAILABLE" = "보관 자원";
+"LS_CW_ITEM_HISTORY" = "사용 내역";
+"LS_APPLY" = "확인";
+"LS_CW_SHIP_NOTICE" = "Conquest World에 참여하여 침몰한 함선은 수리상태와 연료가 0% 상태로 복귀합니다.";
+"LS_ASSIGNED" = "배치된 함선";
+"LS_CW_CITY_CLOSED" = "접근 불가";
+"LS_MENU_MODE_ONLINE_CW_BREAKTHROUGH" = "CONQUEST WORLD 돌파작전";
+"LS_MENU_MODE_ONLINE_CW_BATTLE" = "CONQUEST WORLD 인베이젼";
+"LS_CW_CITY_CAPTURED" = "도시를 점령하였습니다.";
+"LS_CW_CITY_UPGRADE" = "도시 업그레이드";
+"LS_CW_CITY_UPGRADE_INFO" = "도시를 업그레이드하여 보다 많은 자원을 생산하세요.";
+"LS_CW_CITY_LEVEL" = "도시 레벨";
+"LS_SEND" = "확인";
+"LS_CW_STAGE1" = "스테이지1";
+"LS_CW_STAGE2" = "스테이지2";
+"LS_CW_ASSIGNED_PLAYERS_SHIP" = "배치 함선";
+"LS_NOT_SELECTED" = "선택 안됨";
+"LS_CW_BATTLE_TIME" = "전투 시간 설정";
+"LS_CW_TIMEZONE_INFO_1" = "1. 전투시간은 도시가 공격자에게 오픈되는 시간입니다.";
+"LS_CW_TIMEZONE_INFO_2" = "2. 전투시간에 공격자는 선전포고를 할 수 있고, 다음날 같은 시간에 전투가 시작됩니다.";
+"LS_CW_TIMEZONE_INFO_3" = "3. 함대원이 전투에 참여하기 가장 편한 시간대를 선택하세요.";
+
+"LS_CW_WAR_FIASKO" = "공격 실패";
+"LS_SHIP_SERVICE" = "함선 인양 작업";
+"LS_SHIP_SERVICE_UNVAILABLE" = "함선 인양까지 남은 시간";
+
+"LS_CW_DECLARE_WAR" = "선전포고";
+"LS_CW_MANAGER_TIME" = "관리 시간";
+"LS_CW_SENT_SHIPS" = "지원 함선";
+"LS_CW_APPOINT" = "임명";
+
+"LS_CW_WE_ARE_ATTACKING_CITY" = "우리함대는 선전포고를 하였습니다. 공격 대상 도시";
+"LS_CW_OUR_CITY" = "도시";
+"LS_CW_UNDER_ATTACK_BY_FLEET" = "선전포고를 받았습니다. 선전포고 함대:";
+"LS_CW_ATTACKER_CONQUERED" = "도시를 점령하였습니다! ";
+"LS_CW_DEFENDER_LOST_CITY" = "도시 방어에 실패했습니다.";
+"LS_CW_ATTACKER_LOST_BATTLE" = "도시 점령에 실패했습니다.";
+"LS_CW_DEFENDER_WIN_BATTLE" = "도시 방어에 성공했습니다. ";
+"LS_CW_ALL_ATTACKER_LOST_BATTLE" = "도시 점령에 실패했습니다.";
+"LS_CW_ALL_DEFENDER_LOST_CITY" = "도시가 점령되었습니다. 공격함대: ";
+"LS_SHIP_SUNKEN" = "침몰";
+"LS_STORE_TAB_PREMIUM" = "프리미엄 계정";
+"LS_STORE_TAB_SHIP" = "함선";
+"LS_STORE_GOLD_DESC" = "골드는 함선 및 건물 업그레이드 시간을 단축할 수 있으며 게임 내 모든 아이템을 구입할 수 있습니다.";
+"LS_PREMIUM_ACCOUNT_TITLE" = "프리미엄 계정";
+"LS_PREMIUM_ACCOUNT_DAILY" = "접속 시 보너스 골드와 랜덤박스 지급";
+"LS_PREMIUM_ACCOUNT_RESOURCE_DOUBLE" = "철강, 연료, 수병 경험치, 자유경험치 2배 제공";
+"LS_PREMIUM_ACCOUNT_GOLD_BONUS" = "골드 구입 시 보너스 20% 추가 지급 ";
+"LS_PREMIUM_ACCOUNT_ONE_WEEK" = "이용기간: 7일";
+"LS_PREMIUM_ACCOUNT_ONE_MONTH" = "이용기간: 30일 ";
+"LS_PREMIUM_ACCOUNT_BEST_PRICE" = "*인기상품";
+"LS_BONUS_PREMIUM" = "프리미엄 계정 보너스";
+"LS_STORE_TAB_HISTORY" = "구입내역";
+"LS_CW_SHIP_CITY_WAR" = "도시 방어";
+
+"LS_CW_WAR_NEWFLEET" = "신생 함대는 한달동안 선전포고를 할 수 없습니다.";
+"LS_EDIT_CLAN_INFO" = "함대 정보";
+"LS_SERVER_WILL_BE_UPGRADED_AFTER" = "업데이트를 위해 서버 점검이 있습니다. 서버 점검까지 남은시간:";
+"LS_EDIT_CLAN_INFO_FAILED" = "함대 정보를 수정할 수 없습니다.";
+"LS_CW_CITY_WAR_WILL_STARTED" = "전투가 곧 시작됩니다.";
+
+"LS_PREMIUM_BOOST_INFO" = "온라인 전투 추가 보상";
+"LS_PREMIUM_BOOST" = "프리미엄 부스트 30일";
+"LS_SETTINGS_CHAT_LANG" = "채팅 언어";
+
+"LS_DES MOINES" = "Des Moines";
+"LS_ARCHER" = "HMS Archer";
+"LS_MIYAKO" = "Miyako";
+"LS_BLUCHER" = "Blücher";
+"LS_ADMIRAL NAKHIMOV" = "Admiral Nakhimov";
+"LS_MANDEL" = "Mandel";
+"LS_TRIESTE" = "Trieste";
+
+"LS_DOWNLOAD" = "다운로드";
+"LS_LOADING" = "로딩…";
+"LS_SETTINGS_REPLAY_CACHE" = "다시보기";
+"LS_CLEAR" = "지우기";
+"LS_REPLAY_DATA_ERROR" = "리플레이를 이용할 수 없습니다. 나중에 다시 시도해 주세요.";

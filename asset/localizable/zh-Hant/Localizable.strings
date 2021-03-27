@@ -76,13 +76,13 @@
 "LS_MENU_CLASS_SELECT_CAMPAIGN_MODE" = "戰役模式";
 "LS_MENU_CLASS_SELECT" = "選擇";
 
-"LS_CLASS_NAME_SHORT_DD" = "驅逐艦";
-"LS_CLASS_NAME_SHORT_CL" = "輕巡洋艦";
-"LS_CLASS_NAME_SHORT_CA" = "重巡洋艦";
-"LS_CLASS_NAME_SHORT_BB" = "戰列艦";
-"LS_CLASS_NAME_SHORT_CV" = "航母";
-"LS_CLASS_NAME_SHORT_SS" = "潛艇";
-"LS_CLASS_NAME_SHORT_APA" = "武裝運輸船";
+"LS_CLASS_NAME_SHORT_DD" = "DD";
+"LS_CLASS_NAME_SHORT_CL" = "CL";
+"LS_CLASS_NAME_SHORT_CA" = "CA";
+"LS_CLASS_NAME_SHORT_BB" = "BB";
+"LS_CLASS_NAME_SHORT_CV" = "CV";
+"LS_CLASS_NAME_SHORT_SS" = "SS";
+"LS_CLASS_NAME_SHORT_APA" = "APA";
 
 
 
@@ -5197,7 +5197,7 @@
 "LS_JAPAN_C2_POLICY_BUTTON" = "プライバシーポリシー";
 
 "LS_CW_CONQUEST" = "世界";
-"LS_CW_WAR" = "征服";
+"LS_CW_WORLD" = "征服";
 "LS_CW_CONQUEROR" = "征服者";
 
 "LS_CW_MANAGER" = "管理員";
@@ -5217,9 +5217,7 @@
 "LS_CW_DONATION" = "捐獻";
 "LS_CW_SET_DEFENCE" = "設置防禦";
 "LS_CW_SEND_SHIPS" = "派出戰艦";
-"LS_CW_TAX_RATE_MODIFY" = "更改稅率";
 "LS_CW_BASE_PORT" = "資產";
-"LS_CW_CONVERSION" = "轉化";
 "LS_CW_DEVELOPMENT" = "發展";
 
 "LS_CW_SAPPORO" = "札幌";
@@ -5268,8 +5266,8 @@
 "LS_CW_MANAGEMENT" = "管理";
 
 "LS_CW_WAR_DECLARATION_NOTICE" = "宣戰";
-"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "進攻艦隊必須有5名以上成員才可以宣戰";
-"LS_CW_WAR_DESC" = "戰鬥將在24小時後開始。宣戰後，進攻方需要在戰鬥開始前確認參戰人員。如果參與人數不足，將判定為無法戰鬥。新艦隊在一個月內無法宣戰。";
+"LS_CW_WAR_NOTICE_FLEET_MEMBERS" = "進攻艦隊必須有10名以上成員才可以宣戰。至少需要3名成員擁有70級以上的國家賬號。";
+"LS_CW_WAR_DESC" = "戰鬥將在24小時後開始。[BR]宣戰後，進攻方需要在戰鬥開始前確認參戰人員。[BR]如果參與人數不足，將判定為無法戰鬥。[BR]新艦隊在一個月內無法宣戰。[BR]";
 
 "LS_SETTINGS_TRANSLATE_LANG" = "語言翻譯";
 "LS_SETTINGS_SHOW_TRANSLATE" = "翻譯功能";
@@ -5301,3 +5299,100 @@
 "LS_ONLINE" = "在線";
 
 "LS_AIR_FUEL_WARNING" = "燃料";
+
+"LS_TENNESSEE(1945)" = "田納西(1945)";
+"LS_RODNEY" = "羅德尼";
+"LS_MIKASA" = "三笠";
+"LS_O PROJECT II" = "O計劃II";
+"LS_BORODINO" = "博羅季諾";
+"LS_DANTON" = "丹頓";
+"LS_REGINA ELENA" = "艾琳娜女王";
+
+"LS_CW_TIME_ATTACK" = "剩餘保護時間";
+"LS_CW_UPGRADE" = "升級";
+"LS_CW_DEFENCE" = "防禦";
+"LS_CW_DONATE_SHIP" = "守衛";
+"LS_CW_SECONDARY_PRODUCTION" = "二級資源";
+"LS_CW_SECONDARY_PRODUCTION_INFO" = "基礎資源可用於生產二級資源";
+"LS_CW_DAILY_RATE" = "每日產出";
+"LS_CLOSE" = "關閉";
+"LS_SHIP_IN_GUARD_CWCITY" = "守衛城市";
+"LS_MENU_INVENTORY" = "庫存";
+"LS_CW_ITEM_AVAILABLE" = "可用";
+"LS_CW_ITEM_HISTORY" = "歷史";
+"LS_APPLY" = "申請";
+"LS_CW_SHIP_NOTICE" = "世界征服戰鬥結束后，所有沉沒戰艦將以0%耐久和燃油的狀態返回。";
+"LS_ASSIGNED" = "派遣";
+"LS_CW_CITY_CLOSED" = "城市關閉";
+"LS_MENU_MODE_ONLINE_CW_BREAKTHROUGH" = "征服世界-突破";
+"LS_MENU_MODE_ONLINE_CW_BATTLE" = "征服世界-侵略";
+"LS_CW_CITY_CAPTURED" = "這座城市的佔領者是";
+"LS_CW_CITY_UPGRADE" = "城市升級";
+"LS_CW_CITY_UPGRADE_INFO" = "升級你的城市來生產更多資源";
+"LS_CW_CITY_LEVEL" = "城市等級";
+"LS_SEND" = "發送";
+"LS_CW_STAGE1" = "第一階段";
+"LS_CW_STAGE2" = "第二階段";
+"LS_CW_ASSIGNED_PLAYERS_SHIP" = "制定戰艦";
+"LS_NOT_SELECTED" = "未選擇";
+"LS_CW_BATTLE_TIME" = "戰鬥時間";
+"LS_CW_TIMEZONE_INFO_1" = "1. 戰鬥時間是港口開放可被敵人進攻的時段。";
+"LS_CW_TIMEZONE_INFO_2" = "2. 在此期間敵人可以宣戰，戰鬥將在明天同一時間開始。";
+"LS_CW_TIMEZONE_INFO_3" = "3. 設置你的艦隊成員可以參與的戰鬥時段。";
+
+"LS_CW_WAR_FIASKO" = "進攻失敗";
+"LS_SHIP_SERVICE" = "打撈";
+"LS_SHIP_SERVICE_UNVAILABLE" = "戰艦在此期間不可用";
+
+"LS_CW_DECLARE_WAR" = "宣戰";
+"LS_CW_MANAGER_TIME" = "時間管理";
+"LS_CW_SENT_SHIPS" = "支援戰艦";
+"LS_CW_APPOINT" = "委派";
+
+"LS_CW_WE_ARE_ATTACKING_CITY" = "我們正在進攻城市";
+"LS_CW_OUR_CITY" = "我們的城市";
+"LS_CW_UNDER_ATTACK_BY_FLEET" = "遭到艦隊攻擊，攻擊者是";
+"LS_CW_ATTACKER_CONQUERED" = "被征服了！我們取得了完全勝利！";
+"LS_CW_DEFENDER_LOST_CITY" = "我們失去了城市";
+"LS_CW_ATTACKER_LOST_BATTLE" = "我們在攻城戰中失利了";
+"LS_CW_DEFENDER_WIN_BATTLE" = "我們成功保衛了城市";
+"LS_CW_ALL_ATTACKER_LOST_BATTLE" = "艦隊在攻城戰中失利了";
+"LS_CW_ALL_DEFENDER_LOST_CITY" = "被征服了，征服者是";
+"LS_SHIP_SUNKEN" = "沉沒";
+"LS_STORE_TAB_PREMIUM" = "賬戶";
+"LS_STORE_TAB_SHIP" = "戰艦";
+"LS_STORE_GOLD_DESC" = "金幣是遊戲中的主要貨幣，可用於加速建造和升級時間、購買額外的戰艦和物品以及在資源不足時提供幫助。";
+"LS_PREMIUM_ACCOUNT_TITLE" = "高級賬戶";
+"LS_PREMIUM_ACCOUNT_DAILY" = "每日額外資源";
+"LS_PREMIUM_ACCOUNT_RESOURCE_DOUBLE" = "雙倍資源及船員經驗";
+"LS_PREMIUM_ACCOUNT_GOLD_BONUS" = "購買金幣時獲得額外加成";
+"LS_PREMIUM_ACCOUNT_ONE_WEEK" = "7日高級賬戶";
+"LS_PREMIUM_ACCOUNT_ONE_MONTH" = "30天高級賬戶";
+"LS_PREMIUM_ACCOUNT_BEST_PRICE" = "*熱門商品";
+"LS_BONUS_PREMIUM" = "高級賬戶加成";
+"LS_STORE_TAB_HISTORY" = "購買歷史";
+"LS_CW_SHIP_CITY_WAR" = "城市防禦";
+
+"LS_CW_WAR_NEWFLEET" = "新艦隊在一個月內無法宣戰";
+"LS_EDIT_CLAN_INFO" = "艦隊信息";
+"LS_SERVER_WILL_BE_UPGRADED_AFTER" = "遊戲服務器將在一段時間后完成更新";
+"LS_EDIT_CLAN_INFO_FAILED" = "無法更改艦隊信息";
+"LS_CW_CITY_WAR_WILL_STARTED" = "戰鬥馬上就要開始了";
+
+"LS_PREMIUM_BOOST_INFO" = "Online battle rewards extra boost";
+"LS_PREMIUM_BOOST" = "BOOST 30 DAYS";
+"LS_SETTINGS_CHAT_LANG" = "聊天頻道";
+
+"LS_DES MOINES" = "得梅因";
+"LS_ARCHER" = "射手號";
+"LS_MIYAKO" = "宮古號";
+"LS_BLUCHER" = "佈呂歇爾";
+"LS_ADMIRAL NAKHIMOV" = "納希莫夫海軍上將";
+"LS_MANDEL" = "曼德爾";
+"LS_TRIESTE" = "的裡雅斯特";
+
+"LS_DOWNLOAD" = "下載";
+"LS_LOADING" = "正在下載...";
+"LS_SETTINGS_REPLAY_CACHE" = "回放";
+"LS_CLEAR" = "清除";
+"LS_REPLAY_DATA_ERROR" = "回放文件不可用，請稍後再試。";
